@@ -1,4 +1,4 @@
-# Queue Data Structure Using Linked List
+# Stack Data Structure Using Array
 
 This repository contains the implementation of a stack data structure using an array in C. Stacks are LIFO (Last-In-First-Out) data structures, commonly used in various algorithms and system functions.
 
